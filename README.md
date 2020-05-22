@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## 目的
+
+Reactのコンポーネントの分け方・インターフェイスの定義の仕方にSOLID原則やDDDの思想を盛り込みながら開発することで、理解しやすくテスト可能な書き方を実現する練習をする。
+
 ## Available Scripts
 
 In the project directory, you can run:
